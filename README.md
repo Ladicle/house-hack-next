@@ -1,7 +1,8 @@
 # House Hack Next (LT slide)
 
-## Slideck
+NTT Tech Conference #0
 
-https://slideck.io/
-https://github.com/Ladicle/house-hack-next/main.md
-https://slideck.io/github.com/Ladicle/house-hack-next/main.md
+## Links
+
+* [Slideck](https://slideck.io/)
+* [Slide URL](https://slideck.io/github.com/Ladicle/house-hack-next/main.md)
